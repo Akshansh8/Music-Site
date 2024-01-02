@@ -307,6 +307,7 @@ body{
     }
     .cards{
         margin-top: 50px;
+       
         
     }
     .cards .container{
@@ -334,6 +335,12 @@ body{
     }
     .card-detail h4{
         font-size: 18px;
+    }
+    .card-img{
+        width: 70vw;
+    }
+    .card-img img{
+        width: 70%;
     }
   
 }
