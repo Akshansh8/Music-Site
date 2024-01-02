@@ -191,10 +191,7 @@ body{
 }
 @media (max-width:786px){
    
-    .container{
-        margin: 0 auto;
-    
-    }
+  
     .nav{
         max-width: 100vw;
         flex-direction: column;
@@ -232,17 +229,19 @@ body{
     .music{
         background-color: rgb(32, 27, 63);
         padding-top: 30px;
+        max-width: 100vw;
     }
     .music .container{
         min-height: 90vh;
         gap: 20px;
-        margin-top: -300px;
+        padding: 0 10px;
+        
         
     }
     .ipad{
         margin-top: -400px;
         position: relative;
-        top: 400px;
+        top: 200px;
         
         
     }
