@@ -87,7 +87,7 @@ body{
     gap: 30px;
 }
 .ipad{
-    margin-top: -50%;
+    margin-top: -400px;
     position: relative;
     top:400px;
 }
@@ -240,9 +240,9 @@ body{
     }
     .ipad{
         margin-top: -200px;
-        
+        position: relative;
         top:200px;
-        padding-left: 100px;
+        padding-right: -100px;
         
     }
     .ipad img{
